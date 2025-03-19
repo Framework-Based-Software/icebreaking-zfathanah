@@ -40,6 +40,6 @@ You can view my personalized GitHub profile [here](https://github.com/zfathanah)
 
 ## Let's Connect
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) [linkedIn](https://www.linkedin.com/in/zahra-fathanah-2398321ba/)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) [IG](https://www.instagram.com/fthnh_29/)
+![Instagram]([https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white](https://www.instagram.com/fthnh_29/))
 
 
