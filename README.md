@@ -4,15 +4,19 @@
 
 # Introduction
 Hi! I'm Zahra Fathanah, a student in the Framework-Based Software Design and Development course. 
-I aim to explore more tools I can use to develop a system and gain hands-on experience in building fully functional websites or applications
+I aspire to explore a diverse range of tools for system development while gaining hands-on experience in creating fully functional websites and applications!
 
 ![My Image](image.jpg)  <!-- Link to the uploaded image -->
 
-## 🎲**Fun fact**: I love to watch movies on Saturday Night and like to design when I am bored.
-## 📚**Course expectations**: To gain hands-on experience in designing, developing, and maintaining software by using many languages (not just HTML and their friends).
-## 🔍**New Skills**: I'm currently learning new prototyping tools, including Framer, to enhance my design workflow and create interactive user interfaces.
-## 💬 **Ask me about**: Creating user-engaging designs, UI/UX principles for intuitive interfaces, and effective branding strategies for a strong identity.
-## 🔗**Portfolio**: You can explore my portfolio [here](https://zahraworks.framer.website/)
+🎲**Fun fact**: I love to watch movies on Saturday Night and I like to mess around with design when I’m bored, especially trying out new trends and fun ideas!
+
+📚**Course expectations**: To gain hands-on experience in designing, developing, and maintaining software by using many languages (not just HTML and their friends).
+
+🔍**New Skills**: I'm currently learning new prototyping tools, including Framer, to enhance my design workflow and create interactive user interfaces.
+
+💬 **Ask me about**: Creating user-engaging designs, UI/UX principles for intuitive interfaces, and effective branding strategies for a strong identity.
+
+🔗**Portfolio**: You can explore my portfolio [here](https://zahraworks.framer.website/)
 
 ___
 
@@ -27,7 +31,6 @@ ___
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
 
 **💻IDEs/Editors**
 
